@@ -1,0 +1,5 @@
+---
+title: Homepage
+---
+
+[Contact](/contact/)
