@@ -1,3 +1,4 @@
 disableKinds:
   - taxonomy
   - term
+  - page
