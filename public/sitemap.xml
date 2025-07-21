@@ -8,6 +8,6 @@
   </url><url>
     <loc>//localhost:1313/tests/</loc>
   </url><url>
-    <loc>//localhost:1313/tests/test/</loc>
+    <loc>//localhost:1313/tests/test_inside/</loc>
   </url>
 </urlset>

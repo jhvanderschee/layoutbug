@@ -1,5 +1,11 @@
 {{ define "content" }}
 
+    {{ with .Params.image }}
+        <div class="flex justify-center">
+          {{ partial "utilities/image.html" (dict "page" $.Page "src" . "class" "w-xl px-6 xl:px-12") }}
+        </div>
+    {{ end }}
+
     <h1>{{ .Title }}</h1>
     
     {{ .Content }}
